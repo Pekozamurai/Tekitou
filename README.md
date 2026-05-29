@@ -1,2 +1,2 @@
 # Tekitou
-Tekitou = appropriate
+Tekitou hogehoge
